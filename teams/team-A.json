@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "team": "Team-A",
+        "security-champion": "",
+        "source-code-repo": "",
+        "issue-tracking": "",
+        "wiki": "",
+        "ci-server": "",
+        "created-by": "",
+        "hide-from-stats": ""
+    },
+    "activities": {
+        "LEV.1.1.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "LEV.1.1.2": {
+            "value": "No",
+            "proof": ""
+        },
+        "LEV.1.1.3": {
+            "value": "No",
+            "proof": ""
+        },
+        "LEV.1.1.4": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "PRO.1.2.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "PRO.1.2.2": {
+            "value": "No",
+            "proof": ""
+        },
+        "PRO.1.2.3": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "PRO.1.2.4": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "USR.1.3.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "USR.1.3.2": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "USR.1.3.3": {
+            "value": "No",
+            "proof": ""
+        },
+        "USR.1.3.4": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "USR.1.3.5": {
+            "value": "No",
+            "proof": ""
+        },
+        "USR.1.3.6": {
+            "value": "No",
+            "proof": ""
+        },
+        "UTV.2.1.1": {
+            "value": "No",
+            "proof": ""
+        },
+        "DES.2.2.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "SKO.2.3.1": {
+            "value": "No",
+            "proof": ""
+        },
+        "INF.2.4.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "KON.2.5.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "ADM.2.6.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "FLO.2.7.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "DAT.2.8.1": {
+            "value": "No",
+            "proof": ""
+        },
+        "EPO.2.9.1": {
+            "value": "No",
+            "proof": ""
+        },
+        "LOG.2.10.1": {
+            "value": "No",
+            "proof": ""
+        },
+        "END.3.1.1": {
+            "value": "No",
+            "proof": ""
+        },
+        "SKA.3.2.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "KON.3.3.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "RED.3.4.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "OA.3.5.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "KAP.3.6.1": {
+            "value": "No",
+            "proof": ""
+        },
+        "FOR.4.1.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "FOR.4.1.2": {
+            "value": "No",
+            "proof": ""
+        },
+        "VK.4.2.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "KH.4.3.1": {
+            "value": "Yes",
+            "proof": ""
+        },
+        "EL.4.4.1": {
+            "value": "Yes",
+            "proof": ""
+        }
+    }
+}
